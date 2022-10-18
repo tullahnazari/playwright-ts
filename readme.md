@@ -1,4 +1,4 @@
-Get Started: 
+#Get Started: 
 
-npm install
-npx playwright test
+\*npm install
+\*npx playwright test
